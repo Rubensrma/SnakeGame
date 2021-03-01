@@ -13,7 +13,7 @@
 
 
 <p align="center">
-    <img windth="470" src="https://github.com/Rubensrma/SnakeGame/blob/master/img/HTMLWEBDEVELOPER.jpg">
+    <img windth="470" src="https://github.com/Rubensrma/SnakeGame/blob/master/img/HTMLWEBDEVELOPER">
 </p>
 
 
