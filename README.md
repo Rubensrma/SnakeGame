@@ -7,6 +7,6 @@
 
 - Visual Studio Code.
 - Linguagens: HTML5 | CSS3 | JavaScript.
-- Inclui o elemento <a> em index.html (elemento âncora), para criar um hiperligação direta ao meu GitHub. 
+- Inclui o elemento < a > em index.html (elemento âncora), para criar um hiperligação direta ao meu GitHub. 
 
 ## BootCamp Concluído👨‍💻
